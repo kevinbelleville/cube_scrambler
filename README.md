@@ -6,12 +6,10 @@ Provides scrambles for the 3x3 Rubik's Cube in the standard form. Scrambles cons
 
 If you don't know how to read speedcuber lingo, here's a quick rundown. A Rubik's Cube has six sides and are notated in the following way:
 
-  * R - right ![Cube notation](http://cubercritic.com/wp-content/uploads/2013/05/3x3-Notation.jpg)
-  * L - left
-  * U - up
-  * D - down
-  * F - front
-  * B - back
+![Cube notation](http://cubercritic.com/wp-content/uploads/2013/05/3x3-Notation.jpg)
+
+right | left | up | down | front | back
+R | L | U | D | F | B
 
 Each of these sides can be turned in three possible ways: clockwise, counter-clockwise, or 180 degrees. Clockwise is simply the side without a denotation, counter-clockwise is denoted with a prime symbol ('), and a 180 degree turn is denoted with a '2'.
 
