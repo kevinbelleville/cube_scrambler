@@ -6,7 +6,7 @@ Provides scrambles for the 3x3 Rubik's Cube in the standard form. Scrambles cons
 
 If you don't know how to read speedcuber lingo, here's a quick rundown. A Rubik's Cube has six sides and are notated in the following way:
 
-  * R - right 
+  * R - right ![Cube notation](http://cubercritic.com/wp-content/uploads/2013/05/3x3-Notation.jpg)
   * L - left
   * U - up
   * D - down
