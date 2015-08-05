@@ -8,10 +8,14 @@ If you don't know how to read speedcuber lingo, here's a quick rundown. A Rubik'
 
 ![Cube notation](http://cubercritic.com/wp-content/uploads/2013/05/3x3-Notation.jpg)
 
-right | left | up | down | front | back
----|---|---|---|---|---
 R | L | U | D | F | B
+---|---|---|---|---|---
+right | left | up | down | front | back
 
 Each of these sides can be turned in three possible ways: clockwise, counter-clockwise, or 180 degrees. Clockwise is simply the side without a denotation, counter-clockwise is denoted with a prime symbol ('), and a 180 degree turn is denoted with a '2'.
 
+---
+
 ## Timer
+
+Working on visually showing times and averages of 5/12.
